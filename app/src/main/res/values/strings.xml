@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App permissions</string>
+    <string name="header_text">Get all the permissions of an app by just typing the apps name,(make the first letter of app capitalized)</string>
+    <string name="button_text">GET PERMISSIONS</string>
+    <string name="editText_text">Give apps name</string>
+
+</resources>
